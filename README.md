@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Kavindi Kodithuwakku 👋
 
-<!--
-**KavindiKodithuwakku/KavindiKodithuwakku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate at the University of Kelaniya, Sri Lanka.
 
-Here are some ideas to get you started:
+💻 I'm passionate about software development and problem-solving. I'm continuously learning programming and improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I'm Learning
+
+- C Programming
+- HTML & CSS
+- JavaScript
+- PHP
+- MySQL
+- Git & GitHub
+
+## 📚 Currently Improving
+
+- Programming fundamentals
+- Problem-solving skills
+- Web development
+- Version control using Git and GitHub
+- English communication
+
+## 🎯 My Goal
+
+To become a skilled Software Engineer by continuously learning, building projects, and improving my problem-solving skills.
+
+## 📫 Connect With Me
+
+- GitHub: [@KavindiKodithuwakku](https://github.com/KavindiKodithuwakku)
+- LinkedIn: [Kavindi Kodithuwakku](https://www.linkedin.com/in/kavindi-kodithuwakku-27a208390/)
+
+---
+
+✨ *Learning, building, and growing one step at a time.*
