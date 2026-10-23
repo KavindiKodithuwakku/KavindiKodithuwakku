@@ -4,6 +4,22 @@
 
 💻 I'm passionate about software development and problem-solving. I'm continuously learning programming and improving my technical skills.
 
+🚀 My Projects
+
+🧮 Calculator Web Application
+
+My first web development project, built using HTML, CSS, and JavaScript.
+
+Key Learnings
+
+HTML for webpage structure
+
+CSS for styling and layout
+
+JavaScript for calculations and user interactions
+
+Technologies: HTML · CSS · JavaScript
+
 ## 🛠️ Technologies I'm Learning
 
 - C Programming
